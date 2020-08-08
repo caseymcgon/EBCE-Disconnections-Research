@@ -9,6 +9,8 @@ It contains no code or the underlying data sets, as those are property of EBCE.
 These 2 documents were shared with both EBCE and the University (UC Berkeley) and are not proprietary property.
 
 # DESCRIPTION
+This project was a collaboration between East Bay Community Energy (EBCE) and 3 UC Berkeley Data Science Students (myself included). 
+
 The project's mission was to build a Machine-Learning Model that could effectively discern which buildings are likely to disconnect from the electrical grid. 
 
 Ultimately, if we could predict which customers would disconnect, we'd be able to save time & money for both them and EBCE through mitigation programs. 
